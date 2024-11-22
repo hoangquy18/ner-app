@@ -1,6 +1,12 @@
 # Named Entity Recognition
 I have provided the URL to view the live demo results: http://44.202.255.40:8080/
+
+https://github.com/user-attachments/assets/a53556b9-1fbc-4c3a-bbe4-b08535664dc4
+
 ## How to run
+
+
+
 Create virtual environment
 ```
 conda create -n ner-app python=3.6.3 anaconda
