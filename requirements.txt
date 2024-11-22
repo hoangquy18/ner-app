@@ -1,0 +1,6 @@
+numpy==1.26.4
+pypdf==5.1.0
+spacy==3.7.4
+streamlit==1.40.1
+tqdm==4.67.0
+xx-ent-wiki-sm @ https://github.com/explosion/spacy-models/releases/download/xx_ent_wiki_sm-3.7.0/xx_ent_wiki_sm-3.7.0-py3-none-any.whl
