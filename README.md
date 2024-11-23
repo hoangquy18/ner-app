@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/a53556b9-1fbc-4c3a-bbe4-b08535664dc4
 │   ├── train_model.ipynb      # train model
 ├── inference.ipynb            # for inference
 ├── app.py            # ui for demo
-├── Exercise 1-Named Entity Recognition.pdf  # report
+├── Exercise 1 - Named Entity Recognition.pdf  # report
 ```
 ## How to run
 
@@ -30,4 +30,10 @@ pip install -r requirements.txt
 Run demo
 ```
 streamlit run app.py --server.port 8080
+```
+
+# Exercise 2 – Text to speech
+Report for Exercise 2
+```
+├── Exercise 2 – Text to speech.pdf 
 ```
