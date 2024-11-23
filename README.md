@@ -30,5 +30,3 @@ Run demo
 ```
 streamlit run app.py --server.port 8080
 ```
-
-## Training Details
