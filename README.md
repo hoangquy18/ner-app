@@ -14,8 +14,6 @@ https://github.com/user-attachments/assets/a53556b9-1fbc-4c3a-bbe4-b08535664dc4
 │   ├── train_model.ipynb      # train model
 ├── inference.ipynb            # for inference
 ├── app.py            # ui for demo
-
-
 ```
 ## How to run
 
